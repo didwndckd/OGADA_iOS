@@ -27,6 +27,8 @@
 
   - GooglePlaces를 이용하여 가고싶은 지역을 검색하고 동선에 추가, 저장
 
+    - GooglePlaces `GMSAutocompleteResultsViewController` class를 사용하여 장소 검색 자동완성 구현
+
     - 기존의 동선에 원하는 순서에 삽입
 
   - 동선을 날짜 별로 관리하고 방문한 장소를 표시
