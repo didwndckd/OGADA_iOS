@@ -12,9 +12,6 @@
 
 - 개발 기간: 2020.03.09~ 2020.03.13 (5일)
 - 참여 인원: iOS 3명
-  - [eujin811](https://github.com/eujin811)
-  - [wydryd125](https://github.com/wydryd125)
-  - [JoongChangYang](https://github.com/JoongChangYang)
 - 사용 기술
   - Language: Swift5
   - Framework: UIKit, MapKit
