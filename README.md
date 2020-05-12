@@ -26,9 +26,27 @@
   <img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/movingline.gif"></img>
 
   - GooglePlaces를 이용하여 가고싶은 지역을 검색하고 동선에 추가, 저장
-- 동선을 날짜 별로 관리하고 방문한 지역을 표시
+
+    - 기존의 동선에 원하는 순서에 삽입
+
+  - 동선을 날짜 별로 관리하고 방문한 장소를 표시
+
+    - `MKMApView`
+
+      - 방문한 장소 깃발 ⚑ 이미지로 커스텀한 `Annotation`을 사용
+
+      - 방문하지 않은 장소는 기본 `MKAnnotation`을 사용
+
+    - `UITableView` 
+
+      - 방문한 장소는 푸른색을 사용
+      - 방문하지 않은 장소는 붉은색을 사용
+
   - 선택한 장소로 `MKMapView` 이동 
-  
+
+    - `UITableViewCell`을 클릭하면 해당 장소로 `MKMapView` 이동
+    - 선택한 cell이 없는 경우 모든 `Annotation`이 보일 수 있도록 `MKMapView`세팅
+
 - 트러블 슈팅
 
   - 장소를 선택하지 않은 상황에서 전체 장소들의 `MKPointAnnotation`들을 모두 보여주려고 했으나 어떻게 보여줘야할지 애매한 문제
