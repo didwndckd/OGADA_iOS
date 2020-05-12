@@ -11,7 +11,9 @@
 ## Description
 
 - 개발 기간: 2020.03.09~ 2020.03.13 (5일)
+
 - 참여 인원: iOS 3명 [Team repository⬅️](https://github.com/JoongChangYang/OGADA_iOS)
+
 - 사용 기술
   - Language: Swift5
   - Framework: UIKit, MapKit
@@ -31,6 +33,8 @@
 
     - 기존의 동선에 원하는 순서에 삽입
 
+    
+
   - 동선을 날짜 별로 관리하고 방문한 장소를 표시
 
     - `MKMapView`
@@ -48,6 +52,8 @@
 
       - 방문한 장소: 푸른색의 원형 숫자 뷰로 표현
       - 방문하지 않은 장소: 붉은색의 원형 숫자 뷰로 표현
+
+      
 
   - 선택한 장소로 `MKMapView` 이동 
 
