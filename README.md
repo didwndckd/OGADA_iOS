@@ -35,14 +35,19 @@
 
     - `MKMapView`
 
-      - 방문한 장소 깃발 ⚑ 이미지로 커스텀한 `Annotation`을 사용
+      - 방문한 장소: 깃발 `⚑` 이미지로 커스텀한 `Annotation`로 표현
 
-      - 방문하지 않은 장소는 기본 `MKAnnotation`을 사용
+      - 방문하지 않은 장소: 기본 `MKAnnotation`로 표현
 
     - `UITableView` 
 
-      - 방문한 장소는 푸른색을 사용
-      - 방문하지 않은 장소는 붉은색을 사용
+      - `UITableViewCell`
+        - title: 장소 이름
+        - subtitle: 주소
+        - 좌측 원형 숫자 뷰: 동선의 순서
+
+      - 방문한 장소: 푸른색의 원형 숫자 뷰로 표현
+      - 방문하지 않은 장소: 붉은색의 원형 숫자 뷰로 표현
 
   - 선택한 장소로 `MKMapView` 이동 
 
