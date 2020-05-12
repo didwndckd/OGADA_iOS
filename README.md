@@ -15,8 +15,7 @@
 - 사용 기술
   - Language: Swift5
   - Framework: UIKit, MapKit
-  - Open API
-    - Google: GooglePlaces
+  - Open API: GooglePlaces
 - 담당 구현 파트
   - 여행 동선 
 
