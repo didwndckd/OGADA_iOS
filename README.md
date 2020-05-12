@@ -31,7 +31,7 @@
 
   - 동선을 날짜 별로 관리하고 방문한 장소를 표시
 
-    - `MKMApView`
+    - `MKMapView`
 
       - 방문한 장소 깃발 ⚑ 이미지로 커스텀한 `Annotation`을 사용
 
