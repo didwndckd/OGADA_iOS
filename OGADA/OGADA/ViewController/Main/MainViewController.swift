@@ -89,15 +89,19 @@ class MainViewController: UIViewController {
         
         let boardingPassVC = BoardingPassViewController()
         boardingPassVC.tabBarItem.title = "보딩패스"
+        boardingPassVC.tabBarItem.image = UIImage(systemName: "airplane")
         
         let movingLineVC = MovingLineViewController()
         movingLineVC.tabBarItem.title = "동선"
+        movingLineVC.tabBarItem.image = UIImage(systemName: "paperplane.fill")
         
         let travelLogVC = TravelLogViewController()
         travelLogVC.tabBarItem.title = "가계부"
+        travelLogVC.tabBarItem.image = UIImage(systemName: "square.and.pencil")
         
         let otherVC = OtherViewController()
         otherVC.tabBarItem.title = "더보기"
+        otherVC.tabBarItem.image = UIImage(systemName: "ellipsis.circle")
         
         
         tabBarController.viewControllers = [
