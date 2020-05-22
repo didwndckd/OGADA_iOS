@@ -21,7 +21,7 @@
 
 
 
-## Views
+## View
 
 <img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/OGADA_synthesize.png"></img>
 
