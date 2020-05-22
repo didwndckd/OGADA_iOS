@@ -19,6 +19,10 @@
 - 담당 구현 파트
   - 여행 동선 
 
+
+
+## Views
+
 <img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/OGADA_synthesize.png"></img>
 
 ## Implementation
