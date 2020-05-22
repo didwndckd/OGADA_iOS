@@ -10,6 +10,8 @@
 
 ## Description
 
+- 구현 화면 예시
+
 <img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/OGADA_synthesize.png"></img>
 
 - 개발 기간: 2020.03.09~ 2020.03.13 (5일)
