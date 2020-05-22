@@ -10,10 +10,10 @@
 
 ## Description
 
+<img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/OGADA_synthesize.png"></img>
+
 - 개발 기간: 2020.03.09~ 2020.03.13 (5일)
-
 - 참여 인원: iOS 3명 [Team repository⬅️](https://github.com/JoongChangYang/OGADA_iOS)
-
 - 사용 기술
   - Language: Swift5
   - Framework: UIKit, MapKit
@@ -21,7 +21,9 @@
 - 담당 구현 파트
   - 여행 동선 
 
-## implementation
+
+
+## Implementation
 
 - 여행 동선
 
@@ -39,9 +41,9 @@
 
     - `MKMapView`
 
-      - 방문한 장소: 깃발 `⚑` 이미지로 커스텀한 `Annotation`로 표현
+      - 방문한 장소: 깃발 `⚑` 이미지로 커스텀한 `Annotation`으로 표현
 
-      - 방문하지 않은 장소: 기본 `MKAnnotation`로 표현
+      - 방문하지 않은 장소: 기본 `MKAnnotation`으로 표현
 
     - `UITableView` 
 
