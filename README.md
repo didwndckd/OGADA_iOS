@@ -14,7 +14,7 @@
 - 참여 인원: iOS 3명
   - [eujin811](https://github.com/eujin811)
   - [wydryd125](https://github.com/wydryd125)
-  - [JoongChangYang](https://github.com/JoongChangYang)
+  - [didwndckd](https://github.com/didwndckd)
 - 사용 기술
   - Language: Swift5
   - Framework: UIKit, MapKit
@@ -29,7 +29,7 @@
 
 - 메인, 보딩패스
 
-  <img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/Main%26BordingPass.gif"></img>
+  <img src = "assets/Main%26BordingPass.gif"></img>
 
   contributor: [wydryd125 ⬅️(Detail)](https://github.com/wydryd125/OGADA_iOS)
 
@@ -40,9 +40,9 @@
 
 - 여행 동선
 
-  <img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/movingline.gif"></img>
+  <img src = "assets/movingline.gif"></img>
 
-  contributor: [JoongChangYang ⬅️(Detail)](https://github.com/JoongChangYang/OGADA_iOS/tree/doro)
+  contributor: [didwndckd ⬅️(Detail)](https://github.com/didwndckd/OGADA_iOS/tree/doro)
 
   - 가고싶은 지역을 검색하고 동선에 추가, 저장
   - 동선을 날짜 별로 관리하고 방문한 지역을 표시
