@@ -23,7 +23,7 @@
 
 ## Views
 
-<img src = "assets/OGADA_synthesize.png"></img>
+<img src = "https://github.com/didwndckd/OGADA_iOS/blob/master/assets/OGADA_synthesize.png"></img>
 
 ## Implementation
 
