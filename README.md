@@ -11,7 +11,7 @@
 ## Description
 
 - 개발 기간: 2020.03.09~ 2020.03.13 (5일)
-- 참여 인원: iOS 3명 [Team repository⬅️](https://github.com/JoongChangYang/OGADA_iOS)
+- 참여 인원: iOS 3명 [Team repository⬅️](https://github.com/didwndckd/OGADA_iOS)
 - 사용 기술
   - Language: Swift5
   - Framework: UIKit, MapKit
@@ -23,13 +23,13 @@
 
 ## Views
 
-<img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/OGADA_synthesize.png"></img>
+<img src = "assets/OGADA_synthesize.png"></img>
 
 ## Implementation
 
 ### 여행 동선
 
-<img src = "https://github.com/JoongChangYang/OGADA_iOS/blob/master/assets/movingline.gif"></img>
+<img src = "assets/movingline.gif"></img>
 
 - GooglePlaces를 이용하여 가고싶은 지역을 검색하고 동선에 추가, 저장
 
